@@ -1,5 +1,5 @@
 # My Portfolio
-Hey GitHub fam! I've just unleashed my first-ever website into the wild, and it's my very own portfolio! `https://github.com/Pranavlovescode/My-Portfolio`
+Hey GitHub fam! I've just unleashed my first-ever website into the wild, and it's my very own portfolio! https://github.com/Pranavlovescode/My-Portfolio
 
 **Here's the tech rundown:**
 
